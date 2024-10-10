@@ -15,7 +15,7 @@ namespace MatematicaClasa1
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();  //adsfsgdfhg
         }
 
         private void button1_Click(object sender, EventArgs e)
