@@ -15,6 +15,7 @@ namespace MatematicaClasa1
     {
         public Form1()
         {
+            //sdftyuiop
             //asdasd
             InitializeComponent();  //adsfsgdfhg
         }
