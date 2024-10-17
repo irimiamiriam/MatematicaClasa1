@@ -26,6 +26,7 @@ namespace MatematicaClasa1
             form.ShowDialog();
             this.Show();
             //hello i am so sick
+            ///heyyy
         }
     }
 }
